@@ -3,7 +3,7 @@ This folder covers manly presentations that are project dependent. The presentat
 explain and visualize our work to the community in a more coarse grain fashion and 
 show the progress over the years within the project. Each major project is listed below 
 and the description is given in the link or inline. Note that other project presentations 
-are available directly in the main folder.
+are available directly in the main folder (see also https://i11www.iti.kit.edu/en/members/franziska_wegner/activities).
 
 ## 1. Helmholz Program: Storage- and Cross-linked-Infrastructures (SCI)
 (Link: https://i11www.iti.kit.edu/en/projects/sci-topic6/index)
