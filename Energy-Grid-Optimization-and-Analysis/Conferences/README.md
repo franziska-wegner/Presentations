@@ -2,7 +2,7 @@
 
 The slides of different conference publications in the research field of 
 Energy Grid Optimization and Analysis (EGOA) are listed in the format 
-<year>-<month>-<day>\_<conference-name>\_<location>\_<title>. 
+_\<year\>-\<month\>-\<day\>\_\<conference-name\>\_\<location\>\_\<title\>_. 
 The slides give a short advertisment of the individual paper's content 
 to give an idea of the content and help to determine the individual relevance. 
 Each presentation shows the applied research methodology that is used to 
