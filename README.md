@@ -1,4 +1,23 @@
-[![CC BY 4.0][cc-by-shield]][cc-by]
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <a href="http://creativecommons.org/licenses/by/4.0/">
+      <img alt="CC BY 4.0 logo" src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" />
+      </a>
+    </td>
+    <td style="border: none;">
+      <a href="https://orcid.org/0000-0001-5146-4145">
+      <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+      0000-0001-5146-4145
+      </a>
+      <br/>
+      <a href="https://www.linkedin.com/in/franziska-wegner">
+      <img alt="LinkedIn logo" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="16" height="16" />
+        in/franziska-wegner
+      </a>
+    </td>
+  </tr>
+</table>
 
 # Presentations
 This repository provides a set of presentations and lectures in different fields. Most of 
